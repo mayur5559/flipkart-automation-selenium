@@ -14,7 +14,7 @@
 <!-- rolling file appender -->
 <appender name="file" class="org.apache.log4j.RollingFileAppender">
     
-	<param name="File" value="C:\\Users\\Mayur Uddhav Adhude\\eclipse-workspace\\flipkart.com\\src\\main\\resources\\logs\\application.log" />
+	<param name="File" value="C:\\Users\\Mayur Uddhav Adhude\\git\\repository\\flipkart.com\\src\\main\\resources\\logs\\application.log" />
 	
 	<param name="Append" value="false" />
 
